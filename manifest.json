@@ -4,6 +4,8 @@
   "start_url": "/rezepte",
   "display": "standalone",
   "icons": [
+"theme_color": "#f9f5e9",
+"background_color": "#f9f5e9",
     {
       "src": "https://cdn.prod.website-files.com/680f4e658c43b69c9bd0c7d3/68275f76934ee9c7b4791fda_D%20192x192.png",
       "sizes": "192x192",
