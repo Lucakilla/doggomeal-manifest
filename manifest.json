@@ -1,0 +1,20 @@
+{
+  "name": "DoggoMeal",
+  "short_name": "DoggoMeal",
+  "start_url": "/rezepte",
+  "display": "standalone",
+  "background_color": "#f9f5e9",
+  "theme_color": "#ff4d00",
+  "icons": [
+    {
+      "src": "https://deine-seite.de/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://deine-seite.de/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
