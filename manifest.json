@@ -1,18 +1,19 @@
 {
   "name": "DoggoMeal",
   "short_name": "DoggoMeal",
+  "id": "/rezepte",
   "start_url": "/rezepte",
   "display": "standalone",
   "theme_color": "#f9f5e9",
   "background_color": "#f9f5e9",
   "icons": [
     {
-      "src": "https://cdn.prod.website-files.com/.../D 192x192.png",
+      "src": "https://cdn.prod.website-files.com/.../D-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://cdn.prod.website-files.com/.../D 512x512.png",
+      "src": "https://cdn.prod.website-files.com/.../D-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
