@@ -3,16 +3,16 @@
   "short_name": "DoggoMeal",
   "start_url": "/rezepte",
   "display": "standalone",
+  "theme_color": "#f9f5e9",
+  "background_color": "#f9f5e9",
   "icons": [
-"theme_color": "#f9f5e9",
-"background_color": "#f9f5e9",
     {
-      "src": "https://cdn.prod.website-files.com/680f4e658c43b69c9bd0c7d3/68275f76934ee9c7b4791fda_D%20192x192.png",
+      "src": "https://cdn.prod.website-files.com/.../D 192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://cdn.prod.website-files.com/680f4e658c43b69c9bd0c7d3/68275f7767db6ca0a79bed6e_D%20512x512.png",
+      "src": "https://cdn.prod.website-files.com/.../D 512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
